@@ -1,0 +1,5 @@
+[
+	{'id':'music','route':'musics','label':'Music'},
+  {'id':'advert','route':'adverts','label':'Advertising'},
+  {'id':'setting','route':'settings','label':'Configuration'}
+]
